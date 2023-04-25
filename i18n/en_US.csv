@@ -1,0 +1,8 @@
+"Something went wrong","Something went wrong"
+"Backend Reindex Setting","Backend Reindex Setting"
+"Backend Reindex","Backend Reindex"
+"Please select indexers.","Please select indexers."
+"%1 indexer(s) were reindexed.","%1 indexer(s) were reindexed."
+"%1 index was reindex.","%1 index was reindex."
+"%1 index was reset.","%1 index was reset."
+"<a href=""%1"">Reindex</a> | <a href=""%2"">Reset</a>","<a href=""%1"">Reindex</a> | <a href=""%2"">Reset</a>"

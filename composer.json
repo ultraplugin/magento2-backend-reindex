@@ -1,0 +1,24 @@
+{
+    "name": "ultraplugin/module-backend-reindex",
+    "description": "Magento2 Backend Reindex Module",
+    "require": {
+        "ultraplugin/module-base": "^1.0"
+    },
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Ultraplugin",
+            "email": "support@ultraplugin.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Ultraplugin\\BackendReindex\\": ""
+        }
+    }
+}
